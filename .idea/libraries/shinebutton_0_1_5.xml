@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="shinebutton-0.1.5">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.sackcentury/shinebutton/0.1.5/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.sackcentury/shinebutton/0.1.5/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sackcentury/shinebutton/0.1.5/5833be3ec425cf2c3a3c2de404eecd5709d65bc0/shinebutton-0.1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
