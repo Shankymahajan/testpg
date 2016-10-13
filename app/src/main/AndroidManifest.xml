@@ -1,59 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    package="com.example.uddishverma.pg_app_beta">
-
-    <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-    <uses-permission android:name="android.permission.CALL_PHONE" />
-    <uses-permission android:name="android.permission.CAMERA" />
-    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    package="com.example.shashankmahajan.profilepage">
 
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/MyTheme"
-        tools:replace="android:icon,android:theme">
-        <activity
-            android:name=".SplashScreen"
-            android:theme="@style/SplashTheme">
-
-        </activity>
-        <activity android:name=".IntroActivity" />
-        <activity android:name=".RegisterPG" />
-        <activity android:name=".FindPGActivity" />
-        <activity android:name=".FragmentCaller" />
-        <activity
-            android:name=".MainActivity"
-            android:label="@string/title_activity_main2"
-            android:theme="@style/MyTheme" >
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <activity android:name=".FilterActivity" />
-        <activity android:name=".AuthorisationActivity" />
-        <activity android:name=".MyAccountPage" />
-        <activity android:name=".MyRegisteredPGInfo" />
-        <activity android:name=".EditPG" />
-        <activity android:name=".RegisterPGPageOne" />
-        <activity android:name=".MultiplePGEdit" />
-        <activity
-            android:name="com.facebook.FacebookActivity"
-            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
-            android:label="@string/app_name" />
-
-        <meta-data
-            android:name="com.facebook.sdk.ApplicationId"
-            android:value="@string/facebook_app_id" />
-
     </application>
 
 </manifest>

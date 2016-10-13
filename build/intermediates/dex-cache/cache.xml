@@ -3,849 +3,156 @@
 
     <item
         is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jar="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_7e164b4fff0d260823f06cb02aee48d26e4dab9b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.4.0_8650730135f90e0ecab551478de354dbdf0ba5e6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
+        revision="24.0.3"
         sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_036b928746b9eee339fcaac86cbd1fdf6f75614c/classes.dex" />
+        <dex dex="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_013a83a51e37a7501bd54ce5404258afdd5c94d6/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/jars/classes.jar"
+        jar="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.2"
-        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.4.0_17755dde14e64170655acb5f7b06962606fd5f36/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.4.0_1482086f5d4313deee42ea5426e4992bbe228baf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.4.0_4e7328ba42a9d15ea508beadee14d49019fd8e5e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.4.0_9f44681f64a5aebb396eab6776e75021ac1dc99b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.4.0_483eb9f05b76fa120c7d7a88c23d9bf7cb69475d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.5.2/f19f10d6276aa0b380e2d05d2ab3272d693a5433/firebase-client-android-2.5.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-android-2.5.2_a246b900fa3822ee87ba72e4cde17b993661ece9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.2.2_cd945241e295285dc7346ae0aae66750bccf3ef1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c3d5d5a4d987939e8851c09eef73e660aeeebb66">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2849e9aec08b400a8ca785add44ca1401875a5b5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-adapters-1.2.1_3ba25692d5133c80a8ac8a5715bd5e0d7c932edb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.4.0_5808637c78bccaef14018db61ca8d8f2529e42c9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.4.0_23a549a8177b2cfa227c894a7e0a4c7e9ec6d4ec/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.4.0_66dfb839be7649cd962ec1df766aa9babe44d664/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/tubesock-0.0.12_a77f78e0b162f5d6fb3b48e5d0a6d406f80816eb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_45a20cb1b71d8f4e0aae4366e411b5da9070467e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.4.0_c7d7fcc66378f5d75ec034c93d04ee2dd8ca710c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_77ae76a10c51db403ac1bd39ec4f478efe1f8518/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.sackcentury/shinebutton/0.1.5/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="a3007c9fc5cc889ff3e6597d96644337adfc76f1">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.sackcentury-shinebutton-0.1.5_b4684453daa17a5cb0405b9241270f3a3d6650d5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_4ab31472be46ebc01f3a51874dfd9fd8f3194ade/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_763e52ea2f0d4103c2b2f1e75e14f456002cb3b5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_fed926734f72beb2d2438e7bc6905289847f8d75/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="670df81539ab71918d49b186598b7eff08ef6563">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.4.0_ab9328f84ede0239871a2cb4becc962ad587806b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
+        revision="24.0.3"
         sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_8c677a753c604a20e5dd46b0d2d925bfad635529/classes.dex" />
+        <dex dex="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_dde0d416d2a5ae14d126b0cb953455930f43caf5/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jar="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.2"
-        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-customtabs-23.4.0_167ab5ab182474ba825f898e0e6e43dbce2f066c/classes.dex" />
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_312cb3b739021e3577828a341ac1d71141a603d3/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jar="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.2"
-        sha1="3b7173b3df4c7029699919414400041f64519e34">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.4.0_8a76e04f874ae8476f551c07629a441264a8847a/classes.dex" />
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_a4da451afb56122a71748599a6f6fcf8554a9927/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.4.0/jars/classes.jar"
+        jar="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.2"
-        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.4.0_bf774c91d1a9df0d000951b7f994ab50e0ee06c0/classes.dex" />
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_b0130a573834ee841d51bbd74064488baf59c933/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.2"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ff7d38de4a5441021fcc93fcd85621973c693ea7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_b3c60dde28498c341b2e9fe1f483acbb5a479f3b/classes.dex" />
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d7390e45ec3cea730390e69962c74d462190de37/classes.dex" />
     </item>
     <item
         is-multidex="true"
         jar="/Users/shashankmahajan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.2"
+        revision="24.0.3"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_50f9eee7b72c8fc2fe6d9c3cdf6c73debd971075/classes.dex" />
+        <dex dex="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_50f9eee7b72c8fc2fe6d9c3cdf6c73debd971075/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.4.0/jars/classes.jar"
+        jar="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.2"
-        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.4.0_af22e447cb822fd4e7d10419982f73567587633a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_672be7130ed5282038407c3c6ce4d36fbe835dd9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.4.0_be0fbe61ff4af9c4d63189446b649093cb1edbf4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_17cb62064da577d6da6ef3643979cc003402ea06/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.4.0_41ee15e7c36bc70ebc74fd9b5abc9180dac09a92/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.4.0_0d6f82416036c50623ff42aee22f711efbd6d95f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_cb51e18b9bb27986d28e3c6a13a663f39cd92b3b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.4.0_a99d4d48ca5ee82d27b02f141483a6dea201cdff/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.2_04b7a7a5b17d59aead33fbed86c58caf54271d95/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.android.databinding/library/1.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-library-1.2.1_b4dc7bbd55efbef6a91ddde5fd778a8fdfcfed44/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.4.0_134483fdfedb0d57f37c0c59a43c74658ac358ff/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_851f0e2ff58ae9de3328862601ec7fd5d7645081/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.4.0_f1287895c28bc42c101c8e856f01fd0909c5b0c3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.4.0_1c56d61f8d6fe42d67bf9d89f1a6202752cfc9fb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_e16e6217e1e156a35ce6e24f1bb32fe2de963d26/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.github.traex.rippleeffect/library/1.3/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ee17feb34ce104bc17d1a1e64346d7f779ebb066">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.traex.rippleeffect-library-1.3_bc15850c81efd15ac2ca40601a625e9729632226/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.4.0_c05156ea984b743debdf86a5b5ce428647ab6e04/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.4.0_1f6f59cc839d3e7f6c15296f25cad9b86bf33323/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_dc545f5474f4d926606ab6c98c8e6fe706406ea3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a98abea687fc124f51a1caa6fc1017f9e9e171aa/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_7cd8204e7d65d829a08de8d8c46b7ab256cdff01/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_06e6e56231e2e894b19fef74d5c19c24efd943df/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.github.florent37/materialtextfield/1.0.5/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="1178ff79ecace62352b61e7e116112d90116cab3">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.florent37-materialtextfield-1.0.5_8be78aa715b6e56d821f3a015d86726c8fc4357f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.5.2/91731b8f5868a3e8a8a773f29b8d06b5c358f5bb/firebase-client-jvm-2.5.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-jvm-2.5.2_51db5c9f7772e8c0499a174cc94b06e57b72b66a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.4.0_f50c463113989d89393840ccbe4d71b2b60688ac/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.4.0_c2cbb5c7ea1fc29a5390aca3422770128df4e2f1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.4.0_4ba8322554ec36d28e97afe0ef2d60b331e584b1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.4.0_057118c275a194c9398226e57434146b878388fa/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.4.0_ef904df51953b5e9a4903ae2942eda2bf2f1ad9a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_83b495e93f6ebb456d6aa99543eca246a6b64eab/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.4.0_4903c5b2d3d7c6408113015e7070278eec628aec/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.4.0_c991306e73d8651d26c27d653d748d2861716a44/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.4.0_b3b14943e58496d14ad59ea26c0c228d4116fccd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_15f9e209912dded089d4714c9646f74dcadd82ef/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/cn.pedant.sweetalert/library/1.3/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0c3529d9491be892952749d252ae1defa9b1f937">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/cn.pedant.sweetalert-library-1.3_5d8aab26c84eb662c95ea74d3e875c3321c92241/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="2661a46394b5801bd15ccb40fdee09c9c01c295a">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_34cc0c6c11927ec2d8ac81d2f3e77d10b9ab51be/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-contextmanager/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-contextmanager-9.4.0_f9925de9a1e26e8058b6b743354f5a7a070cad77/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.4.0_d409142921593e88a31f8e9fa155fa353d83e50c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_2bfc87fa71f76f9ead1a2bc9adf299e937617672/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_d5c71bf6b712c65ffad1dc975b46e2b1d7756115/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.4.0_903bbd6b1c6e806e89aa3f73ecf119c0e8f06e53/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.4.0_a5bc43c030067743893f0c04ec7e846eddb32c54/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.github.asyl.animation/arcanimator/1.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="31dbe885ef6a9d6a88412750e85784f60b95cb90">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.asyl.animation-arcanimator-1.0.0_69db6376e362c204da3a54f0c3a8f84d423b68ba/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="99d79164a8f983161bdb59b1403b9e4a1127aae1">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.16.1_55aaa1e98734e2274454fde8647d34310a377db6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.2.2_53b48e74abe58caa9965dcf3b679312e85c9a990/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
+        revision="24.0.3"
         sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e59cc0aa68c99b200b9948d725648ad32067791c/classes.dex" />
+        <dex dex="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_df1ea2cfbb820cd2103e3f96479b57a06dcefca4/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.4.0/jars/classes.jar"
+        jar="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.2"
-        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.4.0_bc0950ac4e6e3043f6d0d20be4e4e37b96dc4d11/classes.dex" />
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2a208a9c52c9b4dc0af403993fc3d94d2e1ff600/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/agency.tango.android/material-intro-screen/0.0.3/jars/classes.jar"
+        jar="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.2"
-        sha1="b821bc341f62ad65334507a90a2b07c9c7cfc53d">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/agency.tango.android-material-intro-screen-0.0.3_ba9e76fda10ce84e166190e610a924fc684001ea/classes.dex" />
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_16a7a43364000e82c8ec21c943b3077b5ecef6c7/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.4.0/jars/classes.jar"
+        jar="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.2"
-        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.4.0_2bed77f540805a9b327cb2c357f493288d57180b/classes.dex" />
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_5858ce4d7a9e10d60ed3524aa5abb0a66919118f/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.4.0/jars/classes.jar"
+        jar="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.2"
-        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.4.0_0bd093563d9c54804b4a0adb28e2668f62d5619a/classes.dex" />
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_c44714a746c330c45f0e788c5c74840d5977300f/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jar="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.2"
-        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_6d821857e888e4f0d6422a6e9612c8933da4010a/classes.dex" />
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_6239e950d3872a0fc6d2dbf5f7d2fe2de0bf3cfe/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.4.0/jars/classes.jar"
+        jar="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.2"
-        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.4.0_630aabe787d632804abbc2fc4f053f4b7464b0ba/classes.dex" />
+        revision="24.0.3"
+        sha1="81450c7a30016edc892cb05a391d84d0b8f8fbff">
+        <dex dex="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f161da133eefdd5967de77e416153ebfbeab80d3/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/shashankmahajan/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.2.0-rc2/6fd74ef202cfb785db12a652e153ea003123c36b/baseLibrary-2.2.0-rc2.jar"
+        jar="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.2"
-        sha1="6fd74ef202cfb785db12a652e153ea003123c36b">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/baseLibrary-2.2.0-rc2_b7a4bcf6b4d2d6585016012da9ad2cbab8386643/classes.dex" />
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2798c56686a4a12ddab24bd75b8b08179130e0db/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.4.0/jars/classes.jar"
+        jar="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.2"
-        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.4.0_7b15d6e4b96f635a018b7a24287c58d3705ab8e8/classes.dex" />
+        revision="24.0.3"
+        sha1="127948f283708273649e6442ee47710ae07bb8c1">
+        <dex dex="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7afa19cbc4585cb6caa010b2b00ae0e76e6da266/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.4.0/jars/classes.jar"
+        jar="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.2"
-        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.4.0_89d737cae9155a3ce83497c99f3fe3a86a408054/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.pnikosis/materialish-progress/1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="57487745ce450899f9f250d5ae5c092a682cd041">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.pnikosis-materialish-progress-1.0_1699fe7a81a01751747efe7c7cdde201dac4a8f0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.daasuu/EasingInterpolator/1.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b0da6dce52d0f3804becda93bf2713a70a860803">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.daasuu-EasingInterpolator-1.0.0_7759d7286aa2c21b957e0d9d4a9549d393e4fc9f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.4.0_185b5daaba7d3594d24ca7477f2ccc075c49ba5d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.4.0_3de229da6fd1b9a8e49b808c9ed567609c8f180f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.4.0_3427b1b8828e672ec927e0d94873166f0df93cdb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.gordonwong/material-sheet-fab/1.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="34fc70f7f1d882154d876ea763f05977d9945699">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.gordonwong-material-sheet-fab-1.2.1_b2b19728c76a695d0b471efc3735e413b250f229/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_56cb7f49083c4fdd4e69fc004ef16582623511f5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="4348dd26d83b56c2058b768222c3271bce911724">
-        <dex dex="/Users/shashankmahajan/AndroidStudioProject/myGit/PGApp_beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.4.0_bd85737d13864af53cd18a25f45f9c157b195768/classes.dex" />
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/shashankmahajan/android/testApps/ProfilePage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_6657250451c5dc22deeaa5d2e071e7c3787ad733/classes.dex" />
     </item>
 
 </items>
